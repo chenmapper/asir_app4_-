@@ -1,0 +1,12 @@
+local/
+pic/
+pic2/
+temp/
+temp_images/
+__pycache__/
+*.py[cod]
+*.xlsx
+*.zip
+.env
+.DS_Store
+.streamlit/
