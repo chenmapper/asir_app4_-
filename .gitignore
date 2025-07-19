@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+*.xlsx
+*.zip
+.DS_Store
+.env
+.streamlit/
